@@ -1,0 +1,12 @@
+{
+    "name": "goeranh/arango-webscraper",
+    "description": "php webscraper with arangodb backend",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Goeran Heinemann",
+            "email": "goeran@karsdorf.net"
+        }
+    ],
+    "require": {}
+}
